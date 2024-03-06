@@ -1,0 +1,50 @@
+/*------------------------------------------------------------------
+* Project:        Nepayatri
+* Author:         CN-InfoTech
+* URL:            hthttps://themeforest.net/user/cn-infotech
+* Created:        03/06/2020
+-------------------------------------------------------------------
+
+/*
+ Green: #7DBD21;
+ */
+
+
+.header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li a:hover,
+.header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li.submenu .dropdown-menu li:hover a,
+
+.section-title h2:after, ul.post-category li.mixitup-control-active, span.number-cart,
+.trend-box ul.post-category li.mixitup-control-active, .trend-box ul.post-category li:hover, #back-to-top a,
+ .biz-btn, .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus, .ribbon span,
+ .footer-upper h3:after, .menu-ham, .attraction-inner:hover, input#submit.biz-btn:hover, .agent-social ul li a:hover i,
+ button.play-btn i, section.cta-one,
+ .blog-quote::before,  .sidebar-tabs .nav-tabs>li.active>a, .sidebar-tabs .nav-tabs>li.active>a:focus, 
+ .sidebar-tabs .nav-tabs>li.active>a:hover, 
+ .sidebar-tabs .nav-tabs>li>a:hover, .sidebar-item h3:before, ul.sidebar-tags a:hover, .blog-image .b-date,
+ .price-tabmain ul.nav.nav-tabs li a:hover, .price-tabmain ul.nav.nav-tabs li.active a,  .price-tabmain ul.nav.nav-tabs li.active a:focus, 
+.price-tabmain ul.nav.nav-tabs li.active a:hover, .slick-prev, .slick-next, .slider .swiper-button-next:hover:after, 
+.slider .swiper-button-prev:hover:after, section.banner-form .nav-tabs>li.active>a, section.banner-form .nav-tabs>li:hover>a,
+.search-banner .ef-item .icon, .trend-tags [class^="flaticon-"]:hover:before, .why-us-para, section.ready-block,
+section.banner-form .filter-box1 h3.form-title, .top-desti .desti-title, .insta-main
+ {
+	background: #7DBD21!important;
+}
+.biz-btn:before, .top-deal-slider .slider-content, .counter-box{
+    border-color: #7DBD21;
+}
+
+a:hover, a:focus, .section-title span, .trend-tags li.feat, 
+.input-box [class^="flaticon-"]:before, .why-us-icon [class^="flaticon-"]:before, .trend-content > span, .deal-price p, .footer-upper p span,
+section.travelcounter .counter-item i, .footer-phone [class^="flaticon-"]:before, .navbar-sticky-in .biz-btn:hover, .biz-btn1:hover,
+.attraction-icon [class^="flaticon-"]:before, .attraction-icon i, .filter-box a.biz-btn:hover, .shop-price span, span.rt-Price-amount, 
+span.rt-Price-amount span, .error-content span, .counter-box span, .coming-title span, 
+.header_menu .navbar.navbar-default.navbar-sticky-in .nav.navbar-nav li.active > a,
+.header_menu .navbar.navbar-default .nav.navbar-nav li:hover a, .header_menu .navbar.navbar-default .nav.navbar-nav li.active a, 
+.header_menu.affix .navbar.navbar-default .nav.navbar-nav>li:hover>a, .header_menu.affix .navbar.navbar-default .nav.navbar-nav>li.active>a,
+.biz-btn-white, .themecolor{
+	color: #7DBD21;
+}
+
+.top-desti .desti-overlay{background:#7dbd2185;}
+
+section.call-to-action:before, section.travelcounter:after{background:#3e650769;}
